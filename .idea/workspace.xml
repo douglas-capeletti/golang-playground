@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04421719-811e-47f0-b8af-b0bb6f99382b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../curso-go/arrayslicemap/array/array.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/arrayslicemap/forrange/forrange.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/controles/desafioswitch/desafio.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/controles/for/for.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/controles/ifelse/ifelse.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/controles/ifelseif/ifelseif.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/controles/ifinit/ifinit.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/controles/switch1/switch.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/controles/switch2/switch.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/controles/switch3/switch.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/fundamentos/aritmeticos/aritmeticos.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/fundamentos/atribuicao/atribuicao.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/fundamentos/comandos/comandos" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/fundamentos/comandos/comandos.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/fundamentos/constvar/constvar.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/fundamentos/conversoes/conversoes.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/fundamentos/funcoes/funcoes.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/fundamentos/funcoes/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/fundamentos/logicos/logicos.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/fundamentos/naoternario/naoternario.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/fundamentos/ponteiro/ponteiro.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/fundamentos/primeiro/primeiro.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/fundamentos/prints/prints.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/fundamentos/relacionais/relacionais.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/fundamentos/tipos/tipos.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/fundamentos/unario/unario.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/fundamentos/zeros/zeros.go" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>swi</find>
+    </findStrings>
+  </component>
+  <component name="GOROOT" path="/snap/go/3095" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../curso-go" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/hello.go" />
+        <option value="$PROJECT_DIR$/hello/hello.go" />
+        <option value="$PROJECT_DIR$/variaveis/varaiveis.go" />
+        <option value="$PROJECT_DIR$/variaveis/variaveis.go" />
+        <option value="$PROJECT_DIR$/operacoes/operacoes.go" />
+        <option value="$PROJECT_DIR$/fundamentos/variaveis/variaveis.go" />
+        <option value="$PROJECT_DIR$/fundamentos/operadores/operadores.go" />
+        <option value="$PROJECT_DIR$/fundamentos/ponteiros.ponteiros.go" />
+        <option value="$PROJECT_DIR$/fundamentos/ponteiros/ponteiros.go" />
+        <option value="$PROJECT_DIR$/fundamentos/ifElse/ifElse.go" />
+        <option value="$PROJECT_DIR$/fundamentos/controle/main.go" />
+        <option value="$PROJECT_DIR$/fundamentos/controle/controle.go" />
+        <option value="$PROJECT_DIR$/fundamentos/repeticao/repeticao.go" />
+        <option value="$PROJECT_DIR$/fundamentos/selecao/selecao.go" />
+        <option value="$PROJECT_DIR$/collections/array/array.go" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="959" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="going" type="b2602c69:ProjectViewProjectNode" />
+              <item name="going" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="going" type="b2602c69:ProjectViewProjectNode" />
+              <item name="going" type="462c0819:PsiDirectoryNode" />
+              <item name="collections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="going" type="b2602c69:ProjectViewProjectNode" />
+              <item name="going" type="462c0819:PsiDirectoryNode" />
+              <item name="collections" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/fundamentos/ponteiros" />
+      <recent name="$PROJECT_DIR$/fundamentos" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build array.go">
+    <configuration name="go build array.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="going" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/collections/array/array.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build controle.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="going" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/fundamentos/controle/controle.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build variaveis.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="going" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/fundamentos/variaveis/variaveis.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build variaveis.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="going" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/variaveis/variaveis.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build array.go" />
+        <item itemvalue="Go Build.go build controle.go" />
+        <item itemvalue="Go Build.go build variaveis.go (1)" />
+        <item itemvalue="Go Build.go build variaveis.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="1080" width="959" height="1052" extended-state="4" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3274918" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3275862" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3075269" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hello.go" />
+    <entry file="file://$PROJECT_DIR$/fundamentos/hello/hello.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../curso-go/http/dinamico/dinamico.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../curso-go/http/serverdb/server.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../curso-go/funcoes/closure/closure.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../curso-go/funcoes/basicas/basicas.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../curso-go/http/serverdb/cliente.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="53" column="42" selection-start-line="53" selection-start-column="42" selection-end-line="53" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../curso-go/funcoes/retornonomeado/retornonomeado.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../curso-go/funcoes/variatica/variatica.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../curso-go/funcoes/variaticaslice/variaticaslice.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../curso-go/funcoes/recursividade/recursividade.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../curso-go/funcoes/primeiraclasse/primeiraclasse.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../curso-go/funcoes/defer/defer.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../curso-go/funcoes/ponteiro/ponteiro.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos/variaveis/variaveis.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="65" column="1" lean-forward="true" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos/operadores/operadores.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="789">
+          <caret line="115" column="84" selection-start-line="115" selection-start-column="84" selection-end-line="115" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos/ponteiros/ponteiros.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos/controle/main.go" />
+    <entry file="file://$PROJECT_DIR$/collections/array/array.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos/selecao/selecao.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+          <folding>
+            <element signature="e#14#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos/repeticao/repeticao.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundamentos/controle/controle.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#14#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
