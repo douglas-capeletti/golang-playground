@@ -11,7 +11,7 @@ func main() {
 	ifInit()
 }
 
-func ifElseIf(){
+func ifElseIf() {
 	fmt.Println(notaParaConceito(9.8))
 	fmt.Println(notaParaConceito(6.9))
 	fmt.Println(notaParaConceito(2.1))
@@ -37,7 +37,7 @@ func notaParaConceito(n float64) string {
 	}
 }
 
-func ifInit(){
+func ifInit() {
 	if i := numeroAleatorio(); i > 5 { // tb suportado no switch
 		fmt.Println("Ganhou!!!")
 	} else {

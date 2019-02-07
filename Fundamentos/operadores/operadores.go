@@ -15,7 +15,7 @@ func main() {
 	unarioTernario()
 }
 
-func tipos(){
+func tipos() {
 	// números inteiros
 	fmt.Println(1, 2, 1000)
 	fmt.Println("Literal inteiro é", reflect.TypeOf(32000))
@@ -63,7 +63,7 @@ func tipos(){
 	fmt.Println(char)
 }
 
-func conversoes(){
+func conversoes() {
 	x := 2.4
 	y := 2
 	fmt.Println(x / float64(y))
@@ -111,7 +111,7 @@ func relacionais() {
 	fmt.Println("Pessoas:", p1 == p2)
 }
 
-func unarioTernario(){
+func unarioTernario() {
 	fmt.Println("Go só compreende a forma pós fixada")
 	fmt.Println("Go não tem operador ternário (vai contra os principios da linguagem)")
 }

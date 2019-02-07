@@ -11,7 +11,7 @@ func main() {
 	logicos()
 }
 
-func declaracao(){
+func declaracao() {
 
 	// Declaracao padrao
 	const A float64 = 1
@@ -35,7 +35,6 @@ func declaracao(){
 	const E, F bool = true, false
 	var e, f bool = true, false
 
-
 	// declaracao multipla em linha com inferencia de tipo na atribuicao
 	// ao utilizar o ":" pode se omitiar o "var" que ja sera reconhecido pelo compilador, syntax sugar
 	g, h, i := 2, false, "epa!"
@@ -44,7 +43,7 @@ func declaracao(){
 	fmt.Println("Variaveis:", a, b, c, d, e, f, g, h, i)
 }
 
-func atribuicao(){
+func atribuicao() {
 
 	var b byte = 3
 	fmt.Println(b)
@@ -65,7 +64,7 @@ func atribuicao(){
 	fmt.Println(x, y)
 }
 
-func zeros(){
+func zeros() {
 	var a int
 	var b float64
 	var c bool

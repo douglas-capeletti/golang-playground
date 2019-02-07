@@ -38,7 +38,7 @@ func notaParaConceito(n float64) string {
 		return "Nota inválida"
 	}
 }
-func saudacao(){
+func saudacao() {
 	t := time.Now()
 	switch { // switch true
 	case t.Hour() < 12:

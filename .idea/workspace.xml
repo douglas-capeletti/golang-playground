@@ -2,8 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04421719-811e-47f0-b8af-b0bb6f99382b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ArraySliceMap/map/map.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArraySliceMap/slice/slice.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/arrayslicemap/appendcopy/appendcopy.go" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../curso-go/arrayslicemap/array/array.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/arrayslicemap/arrayinterno/arrayinterno.go" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../curso-go/arrayslicemap/forrange/forrange.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/arrayslicemap/map1/map.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/arrayslicemap/map2/map.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/arrayslicemap/mapaninhado/mapaninhado.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/arrayslicemap/slice/slice.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/arrayslicemap/slicemake/slicemake.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/concorrencia/bloqueio/bloqueio.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/concorrencia/bloqueio/bloqueio.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/concorrencia/buffer/buffer.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/concorrencia/buffer/buffer.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/concorrencia/channel1/channel.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/concorrencia/channel1/channel.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/concorrencia/channel2/channel.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/concorrencia/channel2/channel.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/concorrencia/cpus/cpus.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/concorrencia/cpus/cpus.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/concorrencia/generator/generator.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/concorrencia/generator/generator.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/concorrencia/goroutine/goroutine.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/concorrencia/goroutine/goroutine.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/concorrencia/multiplexar/multiplexar.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/concorrencia/multiplexar/multiplexar.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/concorrencia/multiplexar2/multiplexar.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/concorrencia/multiplexar2/multiplexar.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/concorrencia/primos/primos.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/concorrencia/primos/primos.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/concorrencia/select/select.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/concorrencia/select/select.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../curso-go/controles/desafioswitch/desafio.go" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../curso-go/controles/for/for.go" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../curso-go/controles/ifelse/ifelse.go" beforeDir="false" />
@@ -12,6 +32,20 @@
       <change beforePath="$PROJECT_DIR$/../curso-go/controles/switch1/switch.go" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../curso-go/controles/switch2/switch.go" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../curso-go/controles/switch3/switch.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/funcoes/basicas/basicas.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/funcoes/basicas/basicas.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/funcoes/closure/closure.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/funcoes/closure/closure.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/funcoes/comoparametro/comoparametro.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/funcoes/comoparametro/comoparametro.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/funcoes/defer/defer.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/funcoes/defer/defer.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/funcoes/init/init.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/funcoes/init/init.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/funcoes/init/init2.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/funcoes/init/init2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/funcoes/pilha/pilha.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/funcoes/pilha/pilha.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/funcoes/ponteiro/ponteiro.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/funcoes/ponteiro/ponteiro.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/funcoes/primeiraclasse/primeiraclasse.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/funcoes/primeiraclasse/primeiraclasse.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/funcoes/recursividade/recursividade.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/funcoes/recursividade/recursividade.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/funcoes/recursividade_simples/recursividade.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/funcoes/recursividade_simples/recursividade.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/funcoes/retornonomeado/retornonomeado.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/funcoes/retornonomeado/retornonomeado.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/funcoes/variatica/variatica.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/funcoes/variatica/variatica.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/funcoes/variaticaslice/variaticaslice.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/funcoes/variaticaslice/variaticaslice.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../curso-go/fundamentos/aritmeticos/aritmeticos.go" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../curso-go/fundamentos/atribuicao/atribuicao.go" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../curso-go/fundamentos/comandos/comandos" beforeDir="false" />
@@ -29,6 +63,48 @@
       <change beforePath="$PROJECT_DIR$/../curso-go/fundamentos/tipos/tipos.go" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../curso-go/fundamentos/unario/unario.go" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../curso-go/fundamentos/zeros/zeros.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/http/dinamico/dinamico.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/http/dinamico/dinamico.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/http/serverdb/cliente.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/http/serverdb/cliente.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/http/serverdb/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/http/serverdb/server.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/http/static/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/http/static/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/http/static/static.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/http/static/static.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/pacote/reta/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/pacote/reta/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/pacote/reta/reta.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/pacote/reta/reta.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/pacote/reuso/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/pacote/reuso/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/pacote/usandolib/usandolib.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/pacote/usandolib/usandolib.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/sql/estrutura/estrutura.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/sql/estrutura/estrutura.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/sql/insert/insert.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/sql/insert/insert.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/sql/select/select.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/sql/select/select.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/sql/transacao/transacao.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/sql/transacao/transacao.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/sql/update/update.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/sql/update/update.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/testes/arquitetura/arquitetura_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/testes/arquitetura/arquitetura_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/testes/matematica/matematica.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/testes/matematica/matematica.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/testes/matematica/matematica_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/testes/matematica/matematica_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/testes/tabela/strings_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/testes/tabela/strings_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/tipos/composicao/composicao.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/tipos/composicao/composicao.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/tipos/interface1/interface.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/tipos/interface1/interface.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/tipos/interface2/interface.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/tipos/interface2/interface.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/tipos/json/json.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/tipos/json/json.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/tipos/metodos/metodos.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/tipos/metodos/metodos.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/tipos/meutipo/meutipo.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/tipos/meutipo/meutipo.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/tipos/pseudoheranca/pseudoheranca.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/tipos/pseudoheranca/pseudoheranca.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/tipos/struct/struct.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/tipos/struct/struct.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/tipos/structaninhada/structaninhada.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/tipos/structaninhada/structaninhada.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curso-go/tipos/tipointerface/tipointerface.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/tipos/tipointerface/tipointerface.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/going.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/going.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/array/array.go" beforeDir="false" afterPath="$PROJECT_DIR$/ArraySliceMap/array/array.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos/controle/controle.go" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentos/controle/controle.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos/hello/hello.go" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentos/hello/hello.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos/operadores/operadores.go" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentos/operadores/operadores.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos/ponteiros/ponteiros.go" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentos/ponteiros/ponteiros.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos/repeticao/repeticao.go" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentos/repeticao/repeticao.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos/selecao/selecao.go" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentos/selecao/selecao.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentos/variaveis/variaveis.go" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentos/variaveis/variaveis.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +113,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ArraySliceMap/map/map.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -51,9 +137,9 @@
       <find>swi</find>
     </findStrings>
   </component>
-  <component name="GOROOT" path="/snap/go/3095" />
+  <component name="GOROOT" path="/snap/go/current" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../curso-go" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -73,11 +159,15 @@
         <option value="$PROJECT_DIR$/fundamentos/repeticao/repeticao.go" />
         <option value="$PROJECT_DIR$/fundamentos/selecao/selecao.go" />
         <option value="$PROJECT_DIR$/collections/array/array.go" />
+        <option value="$PROJECT_DIR$/collections/slice.slice.go" />
+        <option value="$PROJECT_DIR$/collections/slice/slice.go" />
+        <option value="$PROJECT_DIR$/ArraySliceMap/map/map.go" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="959" />
+    <option name="y" value="-1" />
+    <option name="width" value="1920" />
     <option name="height" value="1053" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -86,7 +176,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -94,36 +183,31 @@
               <item name="going" type="b2602c69:ProjectViewProjectNode" />
               <item name="going" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="going" type="b2602c69:ProjectViewProjectNode" />
-              <item name="going" type="462c0819:PsiDirectoryNode" />
-              <item name="collections" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="going" type="b2602c69:ProjectViewProjectNode" />
-              <item name="going" type="462c0819:PsiDirectoryNode" />
-              <item name="collections" type="462c0819:PsiDirectoryNode" />
-              <item name="array" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="repository" />
     <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="GO_FMT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Module.GOPATH.is.expanded" value="false" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../curso-go" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/collections/slice" />
       <recent name="$PROJECT_DIR$/fundamentos/ponteiros" />
       <recent name="$PROJECT_DIR$/fundamentos" />
       <recent name="$PROJECT_DIR$" />
@@ -141,7 +225,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build array.go">
+  <component name="RunManager" selected="Go Build.go build map.go">
     <configuration name="go build array.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="going" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -158,6 +242,22 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
+    <configuration name="go build map.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="going" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/ArraySliceMap/map/map.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build slice.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="going" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/collections/slice/slice.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build variaveis.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="going" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -166,53 +266,111 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build variaveis.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="going" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/variaveis/variaveis.go" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build map.go" />
+        <item itemvalue="Go Build.go build slice.go" />
         <item itemvalue="Go Build.go build array.go" />
         <item itemvalue="Go Build.go build controle.go" />
         <item itemvalue="Go Build.go build variaveis.go (1)" />
-        <item itemvalue="Go Build.go build variaveis.go" />
       </list>
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="1080" width="959" height="1052" extended-state="4" />
+    <frame x="0" y="-1" width="1920" height="1050" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3274918" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17305644" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3275862" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2636656" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3075269" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.46730974" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.30653805" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1682641" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32690248" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.46730974" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.30653805" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/hello.go" />
-    <entry file="file://$PROJECT_DIR$/fundamentos/hello/hello.go">
+    <entry file="file://$PROJECT_DIR$/Fundamentos/hello/hello.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
@@ -267,21 +425,21 @@
     <entry file="file://$PROJECT_DIR$/../curso-go/funcoes/ponteiro/ponteiro.go">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/fundamentos/variaveis/variaveis.go">
+    <entry file="file://$PROJECT_DIR$/Fundamentos/variaveis/variaveis.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="444">
           <caret line="65" column="1" lean-forward="true" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fundamentos/operadores/operadores.go">
+    <entry file="file://$PROJECT_DIR$/Fundamentos/operadores/operadores.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="789">
           <caret line="115" column="84" selection-start-line="115" selection-start-column="84" selection-end-line="115" selection-end-column="84" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fundamentos/ponteiros/ponteiros.go">
+    <entry file="file://$PROJECT_DIR$/Fundamentos/ponteiros/ponteiros.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
@@ -289,14 +447,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fundamentos/controle/main.go" />
-    <entry file="file://$PROJECT_DIR$/collections/array/array.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fundamentos/selecao/selecao.go">
+    <entry file="file://$PROJECT_DIR$/Fundamentos/selecao/selecao.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
@@ -306,20 +457,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fundamentos/repeticao/repeticao.go">
+    <entry file="file://$PROJECT_DIR$/Fundamentos/repeticao/repeticao.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="36" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fundamentos/controle/controle.go">
+    <entry file="file://$PROJECT_DIR$/Fundamentos/controle/controle.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="e#14#52#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArraySliceMap/slice/slice.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="35" column="92" selection-start-line="35" selection-start-column="92" selection-end-line="35" selection-end-column="92" />
+          <folding>
+            <element signature="e#14#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArraySliceMap/array/array.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArraySliceMap/map/map.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
         </state>
       </provider>
     </entry>
