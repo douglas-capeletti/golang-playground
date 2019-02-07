@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04421719-811e-47f0-b8af-b0bb6f99382b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ArraySliceMap/map/map.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArraySliceMap/slice/slice.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../curso-go/arrayslicemap/appendcopy/appendcopy.go" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../curso-go/arrayslicemap/array/array.go" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../curso-go/arrayslicemap/arrayinterno/arrayinterno.go" beforeDir="false" />
@@ -91,20 +89,12 @@
       <change beforePath="$PROJECT_DIR$/../curso-go/tipos/struct/struct.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/tipos/struct/struct.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../curso-go/tipos/structaninhada/structaninhada.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/tipos/structaninhada/structaninhada.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../curso-go/tipos/tipointerface/tipointerface.go" beforeDir="false" afterPath="$PROJECT_DIR$/../curso-go/tipos/tipointerface/tipointerface.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/going.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/going.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/array/array.go" beforeDir="false" afterPath="$PROJECT_DIR$/ArraySliceMap/array/array.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentos/controle/controle.go" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentos/controle/controle.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentos/hello/hello.go" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentos/hello/hello.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentos/operadores/operadores.go" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentos/operadores/operadores.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentos/ponteiros/ponteiros.go" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentos/ponteiros/ponteiros.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentos/repeticao/repeticao.go" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentos/repeticao/repeticao.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentos/selecao/selecao.go" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentos/selecao/selecao.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentos/variaveis/variaveis.go" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentos/variaveis/variaveis.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/going.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -117,8 +107,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ArraySliceMap/map/map.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
+            <state relative-caret-position="376">
+              <caret line="37" column="43" lean-forward="true" selection-start-line="37" selection-start-column="43" selection-end-line="37" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -200,7 +190,7 @@
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../curso-go" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="Errors" />
@@ -280,7 +270,7 @@
     <frame x="0" y="-1" width="1920" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17305644" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17465389" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -493,8 +483,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ArraySliceMap/map/map.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
+        <state relative-caret-position="376">
+          <caret line="37" column="43" lean-forward="true" selection-start-line="37" selection-start-column="43" selection-end-line="37" selection-end-column="43" />
         </state>
       </provider>
     </entry>
