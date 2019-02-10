@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04421719-811e-47f0-b8af-b0bb6f99382b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tipos/composicaoInterface/composicaoInterface.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tipos/interface/interface.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tipos/json/json.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tipos/meutipo/meutipo.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tipos/pseudoheranca/pseudoHeranca.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tipos/struct/struct.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tipos/structaninhada/structAninhada.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tipos/tipoDinamico/tipoDinamico.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="04421719-811e-47f0-b8af-b0bb6f99382b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -345,7 +335,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Correção .idea" />
     <MESSAGE value="detalhes sobre funcoes" />
-    <option name="LAST_COMMIT_MESSAGE" value="detalhes sobre funcoes" />
+    <MESSAGE value="adicionando anotacoes sobre tipos" />
+    <option name="LAST_COMMIT_MESSAGE" value="adicionando anotacoes sobre tipos" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/hello.go" />
