@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04421719-811e-47f0-b8af-b0bb6f99382b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funcoes/basicas/basicas.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funcoes/closure/closure.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funcoes/defer/defer.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funcoes/init/init.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funcoes/init/init2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funcoes/recursividade/recursividade.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funcoes/retorno/retorno.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funcoes/tipos/tipos.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funcoes/variatica/variatica.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tipos/composicaoInterface/composicaoInterface.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tipos/interface/interface.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tipos/json/json.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tipos/meutipo/meutipo.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tipos/pseudoheranca/pseudoHeranca.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tipos/struct/struct.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tipos/structaninhada/structAninhada.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tipos/tipoDinamico/tipoDinamico.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,17 +19,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Funcoes/init/init.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -43,6 +31,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>swi</find>
+      <find>ferra</find>
     </findStrings>
   </component>
   <component name="GOROOT" path="/snap/go/current" />
@@ -80,6 +69,12 @@
         <option value="$PROJECT_DIR$/Funcoes/ponteiro/init.go" />
         <option value="$PROJECT_DIR$/Funcoes/ponteiro/ponteiro.go" />
         <option value="$PROJECT_DIR$/Funcoes/init/init.go" />
+        <option value="$PROJECT_DIR$/Fundamentos/tipos/struct/struct.go" />
+        <option value="$PROJECT_DIR$/Fundamentos/structaninhada/structaninhada.go" />
+        <option value="$PROJECT_DIR$/Fundamentos/tipos/pseudoheranca/pseudoheranca.go" />
+        <option value="$PROJECT_DIR$/Fundamentos/tipos/interface1/interface.go" />
+        <option value="$PROJECT_DIR$/Fundamentos/tipos/composicaoInterface/composicaoInterface.go" />
+        <option value="$PROJECT_DIR$/tipos/tipoDinamico/tipoDinamico.go" />
       </list>
     </option>
   </component>
@@ -96,6 +91,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -106,13 +102,55 @@
             <path>
               <item name="going" type="b2602c69:ProjectViewProjectNode" />
               <item name="going" type="462c0819:PsiDirectoryNode" />
-              <item name="Funcoes" type="462c0819:PsiDirectoryNode" />
+              <item name="tipos" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="going" type="b2602c69:ProjectViewProjectNode" />
               <item name="going" type="462c0819:PsiDirectoryNode" />
-              <item name="Funcoes" type="462c0819:PsiDirectoryNode" />
-              <item name="init" type="462c0819:PsiDirectoryNode" />
+              <item name="tipos" type="462c0819:PsiDirectoryNode" />
+              <item name="composicaoInterface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="going" type="b2602c69:ProjectViewProjectNode" />
+              <item name="going" type="462c0819:PsiDirectoryNode" />
+              <item name="tipos" type="462c0819:PsiDirectoryNode" />
+              <item name="interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="going" type="b2602c69:ProjectViewProjectNode" />
+              <item name="going" type="462c0819:PsiDirectoryNode" />
+              <item name="tipos" type="462c0819:PsiDirectoryNode" />
+              <item name="json" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="going" type="b2602c69:ProjectViewProjectNode" />
+              <item name="going" type="462c0819:PsiDirectoryNode" />
+              <item name="tipos" type="462c0819:PsiDirectoryNode" />
+              <item name="meutipo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="going" type="b2602c69:ProjectViewProjectNode" />
+              <item name="going" type="462c0819:PsiDirectoryNode" />
+              <item name="tipos" type="462c0819:PsiDirectoryNode" />
+              <item name="pseudoheranca" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="going" type="b2602c69:ProjectViewProjectNode" />
+              <item name="going" type="462c0819:PsiDirectoryNode" />
+              <item name="tipos" type="462c0819:PsiDirectoryNode" />
+              <item name="struct" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="going" type="b2602c69:ProjectViewProjectNode" />
+              <item name="going" type="462c0819:PsiDirectoryNode" />
+              <item name="tipos" type="462c0819:PsiDirectoryNode" />
+              <item name="structaninhada" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="going" type="b2602c69:ProjectViewProjectNode" />
+              <item name="going" type="462c0819:PsiDirectoryNode" />
+              <item name="tipos" type="462c0819:PsiDirectoryNode" />
+              <item name="tipoDinamico" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="going" type="b2602c69:ProjectViewProjectNode" />
@@ -122,7 +160,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -142,10 +179,16 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Fundamentos/tipos" />
+      <recent name="$PROJECT_DIR$/Fundamentos/topos" />
       <recent name="$PROJECT_DIR$/collections/slice" />
       <recent name="$PROJECT_DIR$/fundamentos/ponteiros" />
-      <recent name="$PROJECT_DIR$/fundamentos" />
-      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Fundamentos/tipos" />
+      <recent name="$PROJECT_DIR$/Fundamentos" />
+      <recent name="$PROJECT_DIR$/Funcoes" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -160,15 +203,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build variatica.go">
-    <configuration name="go build array.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="going" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/collections/array/array.go" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Build.go build tipoDinamico.go">
     <configuration name="go build map.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="going" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -193,6 +228,14 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
+    <configuration name="go build tipoDinamico.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="going" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/tipos/tipoDinamico/tipoDinamico.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build variatica.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="going" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -203,23 +246,23 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build tipoDinamico.go" />
         <item itemvalue="Go Build.go build variatica.go" />
         <item itemvalue="Go Build.go build retorno.go" />
         <item itemvalue="Go Build.go build map.go" />
         <item itemvalue="Go Build.go build slice.go" />
-        <item itemvalue="Go Build.go build array.go" />
       </list>
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1920" height="1050" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17944622" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18104367" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2636656" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3290461" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2636656" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -337,16 +380,8 @@
     <entry file="file://$PROJECT_DIR$/../curso-go/funcoes/variaticaslice/variaticaslice.go" />
     <entry file="file://$PROJECT_DIR$/../curso-go/funcoes/recursividade/recursividade.go" />
     <entry file="file://$PROJECT_DIR$/../curso-go/funcoes/primeiraclasse/primeiraclasse.go" />
-    <entry file="file://$PROJECT_DIR$/../curso-go/funcoes/defer/defer.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../curso-go/funcoes/ponteiro/ponteiro.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../curso-go/funcoes/defer/defer.go" />
+    <entry file="file://$PROJECT_DIR$/../curso-go/funcoes/ponteiro/ponteiro.go" />
     <entry file="file://$PROJECT_DIR$/Fundamentos/variaveis/variaveis.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="444">
@@ -481,17 +516,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Funcoes/ponteiro/ponteiro.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Funcoes/ponteiro/ponteiro.go" />
     <entry file="file://$PROJECT_DIR$/Funcoes/init/init.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tipos/structaninhada/structAninhada.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tipos/struct/struct.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tipos/pseudoheranca/pseudoHeranca.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tipos/interface/interface.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tipos/tipoDinamico/tipoDinamico.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="33" lean-forward="true" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tipos/composicaoInterface/composicaoInterface.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
         </state>
       </provider>
     </entry>
