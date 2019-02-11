@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04421719-811e-47f0-b8af-b0bb6f99382b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/concorrencia/buffer/buffer.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concorrencia/channel/channel.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concorrencia/generator/generator.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concorrencia/goroutine/goroutine.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concorrencia/multiplexar/multiplexar.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concorrencia/multiplexar2/multiplexar.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concorrencia/select/select.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testes/arquitetura/arquitetura_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testes/matematica/matematica.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testes/matematica/matematica_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testes/tabela/strings_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fundamentos/repeticao/repeticao.go" beforeDir="false" afterPath="$PROJECT_DIR$/Fundamentos/repeticao/repeticao.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +15,32 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testes/matematica/matematica.go">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testes/matematica/matematica_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testes/tabela/strings_test.go">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testes/arquitetura/arquitetura_test.go">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -115,49 +136,25 @@
             <path>
               <item name="going" type="b2602c69:ProjectViewProjectNode" />
               <item name="going" type="462c0819:PsiDirectoryNode" />
-              <item name="concorrencia" type="462c0819:PsiDirectoryNode" />
+              <item name="testes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="going" type="b2602c69:ProjectViewProjectNode" />
               <item name="going" type="462c0819:PsiDirectoryNode" />
-              <item name="concorrencia" type="462c0819:PsiDirectoryNode" />
-              <item name="buffer" type="462c0819:PsiDirectoryNode" />
+              <item name="testes" type="462c0819:PsiDirectoryNode" />
+              <item name="arquitetura" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="going" type="b2602c69:ProjectViewProjectNode" />
               <item name="going" type="462c0819:PsiDirectoryNode" />
-              <item name="concorrencia" type="462c0819:PsiDirectoryNode" />
-              <item name="channel" type="462c0819:PsiDirectoryNode" />
+              <item name="testes" type="462c0819:PsiDirectoryNode" />
+              <item name="matematica" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="going" type="b2602c69:ProjectViewProjectNode" />
               <item name="going" type="462c0819:PsiDirectoryNode" />
-              <item name="concorrencia" type="462c0819:PsiDirectoryNode" />
-              <item name="generator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="going" type="b2602c69:ProjectViewProjectNode" />
-              <item name="going" type="462c0819:PsiDirectoryNode" />
-              <item name="concorrencia" type="462c0819:PsiDirectoryNode" />
-              <item name="goroutine" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="going" type="b2602c69:ProjectViewProjectNode" />
-              <item name="going" type="462c0819:PsiDirectoryNode" />
-              <item name="concorrencia" type="462c0819:PsiDirectoryNode" />
-              <item name="multiplexar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="going" type="b2602c69:ProjectViewProjectNode" />
-              <item name="going" type="462c0819:PsiDirectoryNode" />
-              <item name="concorrencia" type="462c0819:PsiDirectoryNode" />
-              <item name="multiplexar2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="going" type="b2602c69:ProjectViewProjectNode" />
-              <item name="going" type="462c0819:PsiDirectoryNode" />
-              <item name="concorrencia" type="462c0819:PsiDirectoryNode" />
-              <item name="select" type="462c0819:PsiDirectoryNode" />
+              <item name="testes" type="462c0819:PsiDirectoryNode" />
+              <item name="tabela" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="going" type="b2602c69:ProjectViewProjectNode" />
@@ -244,6 +241,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1920" height="1050" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18743344" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -335,13 +333,10 @@
     <MESSAGE value="detalhes sobre funcoes" />
     <MESSAGE value="adicionando anotacoes sobre tipos" />
     <MESSAGE value="adicionando anotacoes sobre pacotes" />
-    <option name="LAST_COMMIT_MESSAGE" value="adicionando anotacoes sobre pacotes" />
+    <MESSAGE value="adicionando anotacoes sobre concorrencia" />
+    <option name="LAST_COMMIT_MESSAGE" value="adicionando anotacoes sobre concorrencia" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../curso-go/funcoes/variatica/variatica.go" />
-    <entry file="file://$PROJECT_DIR$/../curso-go/funcoes/variaticaslice/variaticaslice.go" />
-    <entry file="file://$PROJECT_DIR$/../curso-go/funcoes/recursividade/recursividade.go" />
-    <entry file="file://$PROJECT_DIR$/../curso-go/funcoes/primeiraclasse/primeiraclasse.go" />
     <entry file="file://$PROJECT_DIR$/../curso-go/funcoes/defer/defer.go" />
     <entry file="file://$PROJECT_DIR$/../curso-go/funcoes/ponteiro/ponteiro.go" />
     <entry file="file://$PROJECT_DIR$/Fundamentos/variaveis/variaveis.go">
@@ -615,6 +610,22 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testes/matematica/matematica.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testes/matematica/matematica_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testes/tabela/strings_test.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testes/arquitetura/arquitetura_test.go">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
