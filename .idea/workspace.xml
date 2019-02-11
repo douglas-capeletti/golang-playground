@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04421719-811e-47f0-b8af-b0bb6f99382b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sql/estrutura/estrutura.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/insert/insert.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/select/select.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/transacao/transacao.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/update/update.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -89,6 +84,7 @@
         <option value="$PROJECT_DIR$/concorrencia/generator/generator.go" />
         <option value="$PROJECT_DIR$/testes/arquitetura/arquitetura_test.go" />
         <option value="$PROJECT_DIR$/sql/estrutura/estrutura.go" />
+        <option value="$PROJECT_DIR$/http/static/static.go" />
       </list>
     </option>
   </component>
@@ -110,36 +106,6 @@
             <path>
               <item name="going" type="b2602c69:ProjectViewProjectNode" />
               <item name="going" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="going" type="b2602c69:ProjectViewProjectNode" />
-              <item name="going" type="462c0819:PsiDirectoryNode" />
-              <item name="http" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="going" type="b2602c69:ProjectViewProjectNode" />
-              <item name="going" type="462c0819:PsiDirectoryNode" />
-              <item name="http" type="462c0819:PsiDirectoryNode" />
-              <item name="dinamico" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="going" type="b2602c69:ProjectViewProjectNode" />
-              <item name="going" type="462c0819:PsiDirectoryNode" />
-              <item name="http" type="462c0819:PsiDirectoryNode" />
-              <item name="serverdb" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="going" type="b2602c69:ProjectViewProjectNode" />
-              <item name="going" type="462c0819:PsiDirectoryNode" />
-              <item name="http" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="going" type="b2602c69:ProjectViewProjectNode" />
-              <item name="going" type="462c0819:PsiDirectoryNode" />
-              <item name="http" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="going" type="b2602c69:ProjectViewProjectNode" />
@@ -319,28 +285,11 @@
     <MESSAGE value="adicionando anotacoes sobre pacotes" />
     <MESSAGE value="adicionando anotacoes sobre concorrencia" />
     <MESSAGE value="adicionando anotacoes sobre testes" />
-    <option name="LAST_COMMIT_MESSAGE" value="adicionando anotacoes sobre testes" />
+    <MESSAGE value="adicionando anotacoes sobre sql" />
+    <MESSAGE value="adicionando anotacoes sobre http" />
+    <option name="LAST_COMMIT_MESSAGE" value="adicionando anotacoes sobre http" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ArraySliceMap/slice/slice.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="35" column="92" selection-start-line="35" selection-start-column="92" selection-end-line="35" selection-end-column="92" />
-          <folding>
-            <element signature="e#14#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ArraySliceMap/array/array.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///snap/go/current/src/fmt/doc.go" />
-    <entry file="file:///snap/go/current/src/fmt/print.go" />
     <entry file="file://$PROJECT_DIR$/Fundamentos/ponteiros/ponteiros.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -600,13 +549,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/http/static/public/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/sql/update/update.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/http/dinamico/dinamico.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/http/serverdb/cliente.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/http/serverdb/server.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/http/static/public/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/http/static/static.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
