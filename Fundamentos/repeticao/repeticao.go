@@ -26,11 +26,18 @@ func main() {
 		}
 	}
 
+	// O foreach pertence ao array
+	numeros := []int{2, 3, 5, 7}
+
+	//for range ignorando o indice e iterando sobre um array(slice)
+	for _, num := range numeros {
+		fmt.Println(num)
+	}
+
 	for {
 		// laço infinito
 		fmt.Println("Para sempre...")
 		time.Sleep(time.Second)
 	}
 
-	// O foreach pertence ao array
 }
